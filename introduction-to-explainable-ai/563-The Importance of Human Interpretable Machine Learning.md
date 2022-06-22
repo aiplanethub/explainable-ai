@@ -1,6 +1,6 @@
 # The Importance of Human Interpretable Machine Learning
 
-## Learning Objectives  *add title for testing*
+## Learning Objectives  
 
 * Need of Explainable AI
 * What is Explainable AI
